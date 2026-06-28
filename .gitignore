@@ -1,9 +1,0 @@
-build/
-external/
-env/
-data/
-*.nc
-CLAUDE.md
-.claude/
-.DS_Store
-.gitignore
